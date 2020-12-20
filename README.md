@@ -1,5 +1,5 @@
 # Maskify
--  
+Your personal health and entertainment assistant
 
 ## Inspiration
 We know that mask is one of the most important things that we need now, but it's been more than a year now there are still people not wearing masks and there is nothing much improvement in this thing to come up with something revolutionary that can make wearing masks a whole lot of fun at the same time beneficial. A lot of people find it difficult to wear a mask and talk, at this point in time when personal health is most important, people fail to take care of themselves because they are not aware of their most recent body vitals and bad things can happen. People talk on phones or listen to music while walking on the road and accidents happen. These things inspired me the most to come up with something that will make people wear masks without even telling them to wear it with a whole lot of new features, duh, It is fun to wear masks now thanks to our prototype.
@@ -13,6 +13,11 @@ The 3d model of our prototype is built using the 3d builder software in windows.
 ##Challenges Faced
 There were a lot of challenges that we faced during the entire event. First and more most is the team formation. Our team consists of two people and we did not know each other and we had to spend a lot of time to find a proper team and finally start working on a project that would do good to people. Secondly, since we were doing a hardware hack and we did not have components with us we had to make all the simulations on Tinkercad as suggested by the organizers and the mentors and it was completely new platform which took a lot of time to get familiar with and there were some sensors not available which made hardware simulations more difficult. We had to build a 3d model and none of us were familiar with any software for it, finally I had to spend hours to find out how 3d builder software works and finally build a complete model as desired. None of us knew app development but the project we were building required an app so we used MIT app inventer which was again the first time we were using that after many ups and downs we managed to complete the app with complete cloud connectivity. It was also first time using Google translate api and there were numerous errors that came but we managed to figure it out and get things working. 
 In short, it  was a real bumpy ride throughout the entire hackathon but this ride turned out to be successful in what we wanted to build, provided with the limit of two people and of course, technical issues here and there. Yet, we persevered! 
+
+## Illustrations
+![](images/2.PNG)
+![](images/1.PNG)
+![](images/3.PNG)
 
 ## Accomplishments we are proud of
 1. We're very happy with our production of ideas and visualizations for the limited amount of time and hardware we had.
